@@ -1,0 +1,1 @@
+export default function robots() { const u = process.env.APP_URL || "http://localhost:3000"; return { rules: [{ userAgent: "*", allow: "/", disallow: ["/admin", "/api", "/dashboard", "/checkout"] }], sitemap: `${u}/sitemap.xml` }; }

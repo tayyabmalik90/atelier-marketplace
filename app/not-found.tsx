@@ -1,0 +1,2 @@
+import { LinkButton } from "@/components/ui";
+export default function NF() { return <div className="mx-auto max-w-md px-5 py-28 text-center"><div className="font-display text-8xl text-brand/30">404</div><h1 className="mt-2 font-display text-4xl font-semibold">Page not found</h1><p className="mb-6 mt-2 text-muted">That page doesn't exist or has moved.</p><LinkButton href="/templates" v="brand">Browse templates</LinkButton></div>; }

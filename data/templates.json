@@ -1,0 +1,591 @@
+[
+ {
+  "slug": "northwind",
+  "name": "Northwind",
+  "category": "Business & Corporate",
+  "type": "Corporate Website",
+  "style": "Corporate",
+  "tech": [
+   "Next.js"
+  ],
+  "features": [
+   "Responsive",
+   "Blog",
+   "Animation"
+  ],
+  "price": 89,
+  "tags": [
+   "consulting",
+   "finance",
+   "b2b"
+  ],
+  "layout": "split",
+  "serif": false,
+  "pal": [
+   "#f7f8fa",
+   "#0f1b2d",
+   "#2563eb",
+   "#64748b",
+   "#ffffff"
+  ],
+  "badge": "popular",
+  "days": 60,
+  "sales": 184,
+  "desc": "A confident corporate site for firms that sell trust: services, case studies and a leadership team.",
+  "id": 1,
+  "preview": "/previews/northwind-1.svg",
+  "screenshots": [
+   "/previews/northwind-1.svg",
+   "/previews/northwind-2.svg",
+   "/previews/northwind-3.svg"
+  ],
+  "demoUrl": "/demos/northwind/index.html"
+ },
+ {
+  "slug": "folio",
+  "name": "Folio",
+  "category": "Portfolio & Personal Branding",
+  "type": "Portfolio",
+  "style": "Minimal",
+  "tech": [
+   "HTML"
+  ],
+  "features": [
+   "Responsive",
+   "Animation"
+  ],
+  "price": 49,
+  "tags": [
+   "designer",
+   "photographer",
+   "personal"
+  ],
+  "layout": "editorial",
+  "serif": true,
+  "pal": [
+   "#faf9f6",
+   "#151515",
+   "#d9480f",
+   "#6b6b6b",
+   "#ffffff"
+  ],
+  "badge": "",
+  "days": 40,
+  "sales": 231,
+  "desc": "An editorial portfolio with oversized type and a calm project grid. Built to let the work lead.",
+  "id": 2,
+  "preview": "/previews/folio-1.svg",
+  "screenshots": [
+   "/previews/folio-1.svg",
+   "/previews/folio-2.svg",
+   "/previews/folio-3.svg"
+  ],
+  "demoUrl": "/demos/folio/index.html"
+ },
+ {
+  "slug": "pulse",
+  "name": "Pulse",
+  "category": "SaaS & Technology",
+  "type": "SaaS Landing",
+  "style": "Modern",
+  "tech": [
+   "React"
+  ],
+  "features": [
+   "Responsive",
+   "Animation",
+   "CMS"
+  ],
+  "price": 129,
+  "tags": [
+   "saas",
+   "startup",
+   "dark"
+  ],
+  "layout": "center",
+  "serif": false,
+  "dark": true,
+  "pal": [
+   "#0a0a12",
+   "#f4f4f8",
+   "#7c5cff",
+   "#9a9ab0",
+   "#14141f"
+  ],
+  "badge": "featured",
+  "days": 12,
+  "sales": 312,
+  "desc": "A dark, product-led SaaS site with feature tours, pricing-free messaging and a crisp hero.",
+  "id": 3,
+  "preview": "/previews/pulse-1.svg",
+  "screenshots": [
+   "/previews/pulse-1.svg",
+   "/previews/pulse-2.svg",
+   "/previews/pulse-3.svg"
+  ],
+  "demoUrl": "/demos/pulse/index.html"
+ },
+ {
+  "slug": "shelf",
+  "name": "Shelf",
+  "category": "E-commerce",
+  "type": "Online Store",
+  "style": "Modern",
+  "tech": [
+   "Next.js"
+  ],
+  "features": [
+   "Responsive",
+   "E-commerce",
+   "CMS",
+   "Blog"
+  ],
+  "price": 149,
+  "tags": [
+   "shop",
+   "fashion",
+   "retail"
+  ],
+  "layout": "split",
+  "serif": false,
+  "pal": [
+   "#fbfaf8",
+   "#1a1a1a",
+   "#16a34a",
+   "#6f6f6f",
+   "#ffffff"
+  ],
+  "badge": "popular",
+  "days": 25,
+  "sales": 267,
+  "desc": "A clean storefront with product grids, collections and a conversion-focused product story.",
+  "id": 4,
+  "preview": "/previews/shelf-1.svg",
+  "screenshots": [
+   "/previews/shelf-1.svg",
+   "/previews/shelf-2.svg",
+   "/previews/shelf-3.svg"
+  ],
+  "demoUrl": "/demos/shelf/index.html"
+ },
+ {
+  "slug": "moodboard",
+  "name": "Moodboard",
+  "category": "Agency & Creative Studio",
+  "type": "Agency Website",
+  "style": "Creative",
+  "tech": [
+   "Webflow"
+  ],
+  "features": [
+   "Responsive",
+   "Animation",
+   "CMS"
+  ],
+  "price": 99,
+  "tags": [
+   "agency",
+   "studio",
+   "bold"
+  ],
+  "layout": "editorial",
+  "serif": false,
+  "pal": [
+   "#fff4e8",
+   "#1b1b1b",
+   "#ff5a36",
+   "#6b5b4d",
+   "#ffffff"
+  ],
+  "badge": "new",
+  "days": 4,
+  "sales": 41,
+  "desc": "Loud, confident and playful. A studio site with big type, case-study tiles and a bold palette.",
+  "id": 5,
+  "preview": "/previews/moodboard-1.svg",
+  "screenshots": [
+   "/previews/moodboard-1.svg",
+   "/previews/moodboard-2.svg",
+   "/previews/moodboard-3.svg"
+  ],
+  "demoUrl": "/demos/moodboard/index.html"
+ },
+ {
+  "slug": "keystone",
+  "name": "Keystone",
+  "category": "Real Estate",
+  "type": "Listings Website",
+  "style": "Luxury",
+  "tech": [
+   "WordPress"
+  ],
+  "features": [
+   "Responsive",
+   "CMS",
+   "Blog"
+  ],
+  "price": 119,
+  "tags": [
+   "property",
+   "agent",
+   "listings"
+  ],
+  "layout": "split",
+  "serif": true,
+  "pal": [
+   "#f6f3ee",
+   "#1d1a16",
+   "#a07a3a",
+   "#7a7266",
+   "#ffffff"
+  ],
+  "badge": "",
+  "days": 90,
+  "sales": 96,
+  "desc": "A refined property showcase with featured listings, neighbourhood guides and agent profiles.",
+  "id": 6,
+  "preview": "/previews/keystone-1.svg",
+  "screenshots": [
+   "/previews/keystone-1.svg",
+   "/previews/keystone-2.svg",
+   "/previews/keystone-3.svg"
+  ],
+  "demoUrl": "/demos/keystone/index.html"
+ },
+ {
+  "slug": "ember",
+  "name": "Ember",
+  "category": "Restaurant & Hospitality",
+  "type": "Restaurant Website",
+  "style": "Luxury",
+  "tech": [
+   "HTML"
+  ],
+  "features": [
+   "Responsive",
+   "Animation"
+  ],
+  "price": 59,
+  "tags": [
+   "restaurant",
+   "menu",
+   "dark"
+  ],
+  "layout": "center",
+  "serif": true,
+  "dark": true,
+  "pal": [
+   "#14100d",
+   "#f4ebe0",
+   "#d98a3d",
+   "#a89886",
+   "#1f1914"
+  ],
+  "badge": "popular",
+  "days": 70,
+  "sales": 158,
+  "desc": "Warm, atmospheric and appetising. Menus, reservations and a story told through dark, rich colour.",
+  "id": 7,
+  "preview": "/previews/ember-1.svg",
+  "screenshots": [
+   "/previews/ember-1.svg",
+   "/previews/ember-2.svg",
+   "/previews/ember-3.svg"
+  ],
+  "demoUrl": "/demos/ember/index.html"
+ },
+ {
+  "slug": "lumen-academy",
+  "name": "Lumen Academy",
+  "category": "Education & Online Courses",
+  "type": "Course Platform",
+  "style": "Modern",
+  "tech": [
+   "React"
+  ],
+  "features": [
+   "Responsive",
+   "CMS",
+   "Blog"
+  ],
+  "price": 109,
+  "tags": [
+   "courses",
+   "education",
+   "learning"
+  ],
+  "layout": "split",
+  "serif": false,
+  "pal": [
+   "#f5f7ff",
+   "#16183a",
+   "#4f46e5",
+   "#5d6086",
+   "#ffffff"
+  ],
+  "badge": "",
+  "days": 33,
+  "sales": 74,
+  "desc": "A friendly learning site: course catalogue, instructor profiles and clear enrolment paths.",
+  "id": 8,
+  "preview": "/previews/lumen-academy-1.svg",
+  "screenshots": [
+   "/previews/lumen-academy-1.svg",
+   "/previews/lumen-academy-2.svg",
+   "/previews/lumen-academy-3.svg"
+  ],
+  "demoUrl": "/demos/lumen-academy/index.html"
+ },
+ {
+  "slug": "launchpad",
+  "name": "Launchpad",
+  "category": "Landing Pages",
+  "type": "Landing Page",
+  "style": "Minimal",
+  "tech": [
+   "HTML"
+  ],
+  "features": [
+   "Responsive",
+   "Animation"
+  ],
+  "price": 39,
+  "tags": [
+   "waitlist",
+   "launch",
+   "one-page"
+  ],
+  "layout": "center",
+  "serif": false,
+  "pal": [
+   "#ffffff",
+   "#0b0b0b",
+   "#0ea5e9",
+   "#6b7280",
+   "#f4f6f8"
+  ],
+  "badge": "featured",
+  "days": 8,
+  "sales": 402,
+  "desc": "One page, one goal. A distraction-free launch page for waitlists, products and announcements.",
+  "id": 9,
+  "preview": "/previews/launchpad-1.svg",
+  "screenshots": [
+   "/previews/launchpad-1.svg",
+   "/previews/launchpad-2.svg",
+   "/previews/launchpad-3.svg"
+  ],
+  "demoUrl": "/demos/launchpad/index.html"
+ },
+ {
+  "slug": "inkwell",
+  "name": "Inkwell",
+  "category": "Blogs & Publications",
+  "type": "Magazine",
+  "style": "Minimal",
+  "tech": [
+   "Next.js"
+  ],
+  "features": [
+   "Responsive",
+   "Blog",
+   "CMS"
+  ],
+  "price": 69,
+  "tags": [
+   "blog",
+   "magazine",
+   "writing"
+  ],
+  "layout": "editorial",
+  "serif": true,
+  "pal": [
+   "#fdfcf9",
+   "#1c1c1c",
+   "#b91c1c",
+   "#6e6e6e",
+   "#ffffff"
+  ],
+  "badge": "",
+  "days": 120,
+  "sales": 88,
+  "desc": "A reading-first publication theme with generous measure, elegant serif type and clean archives.",
+  "id": 10,
+  "preview": "/previews/inkwell-1.svg",
+  "screenshots": [
+   "/previews/inkwell-1.svg",
+   "/previews/inkwell-2.svg",
+   "/previews/inkwell-3.svg"
+  ],
+  "demoUrl": "/demos/inkwell/index.html"
+ },
+ {
+  "slug": "orbit",
+  "name": "Orbit",
+  "category": "SaaS & Technology",
+  "type": "SaaS Landing",
+  "style": "Creative",
+  "tech": [
+   "Next.js"
+  ],
+  "features": [
+   "Responsive",
+   "Animation",
+   "CMS",
+   "Blog"
+  ],
+  "price": 139,
+  "tags": [
+   "ai",
+   "startup",
+   "gradient"
+  ],
+  "layout": "center",
+  "serif": false,
+  "pal": [
+   "#f3f1ff",
+   "#1a1442",
+   "#6d28d9",
+   "#6b6891",
+   "#ffffff"
+  ],
+  "badge": "new",
+  "days": 2,
+  "sales": 19,
+  "desc": "A vivid, forward-looking site for AI and devtools, with layered cards and generous motion.",
+  "id": 11,
+  "preview": "/previews/orbit-1.svg",
+  "screenshots": [
+   "/previews/orbit-1.svg",
+   "/previews/orbit-2.svg",
+   "/previews/orbit-3.svg"
+  ],
+  "demoUrl": "/demos/orbit/index.html"
+ },
+ {
+  "slug": "atlas-consulting",
+  "name": "Atlas Consulting",
+  "category": "Business & Corporate",
+  "type": "Corporate Website",
+  "style": "Corporate",
+  "tech": [
+   "WordPress"
+  ],
+  "features": [
+   "Responsive",
+   "CMS",
+   "Blog"
+  ],
+  "price": 79,
+  "tags": [
+   "consulting",
+   "legal",
+   "firm"
+  ],
+  "layout": "split",
+  "serif": true,
+  "pal": [
+   "#f4f6f4",
+   "#14231c",
+   "#1f6f4a",
+   "#5f6f66",
+   "#ffffff"
+  ],
+  "badge": "",
+  "days": 150,
+  "sales": 121,
+  "desc": "Measured and authoritative. A professional-services site with practice areas and insights.",
+  "id": 12,
+  "preview": "/previews/atlas-consulting-1.svg",
+  "screenshots": [
+   "/previews/atlas-consulting-1.svg",
+   "/previews/atlas-consulting-2.svg",
+   "/previews/atlas-consulting-3.svg"
+  ],
+  "demoUrl": "/demos/atlas-consulting/index.html"
+ },
+ {
+  "slug": "monogram",
+  "name": "Monogram",
+  "category": "Portfolio & Personal Branding",
+  "type": "Portfolio",
+  "style": "Luxury",
+  "tech": [
+   "Webflow"
+  ],
+  "features": [
+   "Responsive",
+   "Animation"
+  ],
+  "price": 89,
+  "tags": [
+   "architect",
+   "creative",
+   "elegant"
+  ],
+  "layout": "editorial",
+  "serif": true,
+  "pal": [
+   "#111111",
+   "#f1ece4",
+   "#c9a96e",
+   "#9b948a",
+   "#1a1a1a"
+  ],
+  "badge": "featured",
+  "days": 18,
+  "sales": 63,
+  "dark": true,
+  "desc": "A dark, gallery-style personal brand site for architects, artists and independent creatives.",
+  "id": 13,
+  "preview": "/previews/monogram-1.svg",
+  "screenshots": [
+   "/previews/monogram-1.svg",
+   "/previews/monogram-2.svg",
+   "/previews/monogram-3.svg"
+  ],
+  "demoUrl": "/demos/monogram/index.html"
+ },
+ {
+  "slug": "basil-co",
+  "name": "Basil & Co",
+  "category": "Restaurant & Hospitality",
+  "type": "Cafe Website",
+  "style": "Modern",
+  "tech": [
+   "Webflow"
+  ],
+  "features": [
+   "Responsive",
+   "E-commerce",
+   "Blog"
+  ],
+  "price": 69,
+  "tags": [
+   "cafe",
+   "bakery",
+   "order-online"
+  ],
+  "layout": "split",
+  "serif": false,
+  "pal": [
+   "#f2f7ee",
+   "#1f2a1b",
+   "#4d7c0f",
+   "#68745f",
+   "#ffffff"
+  ],
+  "badge": "",
+  "days": 55,
+  "sales": 109,
+  "desc": "Fresh and inviting. A neighbourhood cafe site with menu, hours, gallery and online ordering.",
+  "id": 14,
+  "preview": "/previews/basil-co-1.svg",
+  "screenshots": [
+   "/previews/basil-co-1.svg",
+   "/previews/basil-co-2.svg",
+   "/previews/basil-co-3.svg"
+  ],
+  "demoUrl": "/demos/basil-co/index.html"
+ }
+]

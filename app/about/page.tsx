@@ -1,0 +1,3 @@
+import { Page } from "@/components/Prose";
+export const metadata = { title: "About us" };
+export default function P() { return <Page title="About us" intro="We believe a great website shouldn't take months or cost a fortune."><p>Atelier is a marketplace of professionally designed, ready-to-launch websites. Each template is built by experienced designers and developers, tested on real devices, and sold at a single transparent price.</p><h2>What we stand for</h2><ul><li>Craft: considered typography, spacing and motion.</li><li>Honesty: one price, one clear licence, no subscriptions.</li><li>Speed: preview live, buy, and launch the same day.</li></ul><p>Questions? <a href="/contact">Get in touch</a>.</p></Page>; }

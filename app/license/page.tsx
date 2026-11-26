@@ -1,0 +1,3 @@
+import { Page } from "@/components/Prose";
+export const metadata = { title: "License & Usage Policy" };
+export default function P() { return <Page title="License & Usage Policy" intro="What you can and can't do with a template."><h2>You can</h2><ul><li>Use the template for one end project, personal or for a client.</li><li>Modify it however you like.</li><li>Use it on a commercial website.</li></ul><h2>You can't</h2><ul><li>Resell, redistribute or share the template files.</li><li>Use one licence across multiple projects (buy another licence instead).</li><li>Offer the template as part of a competing marketplace or builder.</li></ul><p>Need an extended licence? <a href="/contact">Contact us</a>.</p></Page>; }

@@ -1,0 +1,3 @@
+import { Page } from "@/components/Prose";
+export const metadata = { title: "Refund Policy" };
+export default function P() { return <Page title="Refund Policy" intro="Fair and simple."><h2>14-day window</h2><p>If a template doesn't work as described, contact us within 14 days of purchase and we'll fix the issue or refund you in full.</p><h2>Not eligible</h2><ul><li>Change of mind after the files have been used live.</li><li>Issues caused by modifications you made.</li></ul><h2>How refunds work</h2><p>Approved refunds go back to your original payment method (typically 5–10 business days). Access to the download is removed once refunded.</p><p>Request a refund through <a href="/contact">Contact</a> with your order ID.</p></Page>; }

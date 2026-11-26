@@ -1,0 +1,17 @@
+@import "tailwindcss";
+@theme {
+  --color-bg: #fafaf7; --color-ink: #0c0c10; --color-muted: #6b6b76; --color-line: #e8e6df; --color-card: #ffffff;
+  --color-brand: #4f46e5; --color-brand-soft: #eef0ff; --color-ok: #15803d; --color-bad: #b91c1c;
+  --font-sans: "Inter Variable", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Cormorant Garamond", Georgia, serif;
+}
+html { scroll-behavior: smooth; }
+body { background: var(--color-bg); color: var(--color-ink); font-family: var(--font-sans); -webkit-font-smoothing: antialiased; }
+:focus-visible { outline: 2px solid var(--color-brand); outline-offset: 2px; border-radius: 6px; }
+.marquee-track { display: flex; gap: 3rem; width: max-content; animation: marquee 40s linear infinite; }
+@keyframes marquee { to { transform: translateX(-50%); } }
+.float { animation: float 7s ease-in-out infinite; }
+@keyframes float { 50% { transform: translateY(-12px); } }
+.skeleton { background: linear-gradient(90deg,#eceae3 25%,#f5f4ee 50%,#eceae3 75%); background-size: 200% 100%; animation: sk 1.4s infinite; border-radius: 12px; }
+@keyframes sk { to { background-position: -200% 0; } }
+@media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation: none !important; transition: none !important; scroll-behavior: auto !important; } }
